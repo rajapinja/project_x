@@ -1,0 +1,11 @@
+// "expo-print": "~12.4.2",
+// "expo-sharing": "~11.5.0",
+
+
+ // "plugins": [
+    //   "@stripe/stripe-react-native",
+    //   {
+    //     "merchantIdentifier":  "__DEV__ ? [] : ['YOUR_PRODUCTION_MERCHANT_ID']",
+    //     "enableGooglePay": false
+    //   }     
+    // ]

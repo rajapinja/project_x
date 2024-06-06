@@ -1,0 +1,4 @@
+https://aboutreact.com/react-native-social-icon/
+https://docs.expo.dev/versions/latest/sdk/document-picker/ - expo document picker
+
+https://reactnative.dev/docs/appregistry - React Native appregistry

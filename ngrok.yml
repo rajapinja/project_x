@@ -1,0 +1,15 @@
+
+version: 2
+authtoken: 2aBNTTjaHRGBR99uelqdvTGeETC_3YczkCj3c6rawAM9eruM8
+
+tunnels:
+  politico:
+    proto: http
+    addr: 5003 
+  projectx:
+    proto: http
+    addr: 5004   
+    inspect: false
+
+
+#ngrok start --config=ngrok.yml
